@@ -1,7 +1,7 @@
 # Hi, I’m Krishna 👋 (Dracksnoop) — Data Scientist
 
 [![Website](https://img.shields.io/badge/portfolio-mgroww.com-blue)](https://mgroww.com)
-[![LinkedIn](https://www.linkedin.com/in/krishna-gurjar-99a232240/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-krishna-blue)](https://www.linkedin.com/in/krishna-gurjar-99a232240/)
 [![Email](https://img.shields.io/badge/Email-7777888220-orange)](mailto:krishnasgurjar2019@gmail.com)
 
 ---
@@ -90,3 +90,7 @@ I build practical data science products — recommendation systems, fleet/transp
 
 ## 🎯 What I’m looking for
 Open to internships and collaborations in ML/DS and productizing analytics for SMBs.
+
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+[![Build Status](https://github.com/Dracksnoop/your-repo/actions/workflows/ci.yml/badge.svg)](https://github.com/Dracksnoop/your-repo/actions)
