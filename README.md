@@ -1,8 +1,8 @@
 # Hi, I’m Krishna 👋 (Dracksnoop) — Data Scientist
 
 [![Website](https://img.shields.io/badge/portfolio-mgroww.com-blue)](https://mgroww.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-krishna-blue)](https://www.linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-7777888220-orange)](mailto:mgroww@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/krishna-gurjar-99a232240/)
+[![Email](https://img.shields.io/badge/Email-7777888220-orange)](mailto:krishnasgurjar2019@gmail.com)
 
 ---
 
