@@ -48,22 +48,139 @@ I build practical data science products — recommendation systems, fleet/transp
 </p>
 ---
 
-## 🏆 Featured Projects
-<!-- Add demo GIFs under each repo; copy these repo blocks to your pinned repos list too -->
-### Movie Recommender — `movie-recommender-streamlit`
-- A Streamlit-based movie recommender (content & collaborative hybrid).
-- Demo: ![demo-gif](https://user-images.githubusercontent.com/yourname/demo-movie.gif)
-- Repo: https://github.com/Dracksnoop/movie-recommender-streamlit
+## 🚀 Featured Projects
 
-### FleetPro — `fleetproo`
-- Fleet analytics dashboard, driver & vehicle tracking, cost optimization.
-- Live demo: https://fleetpro.example.com
-- Repo: https://github.com/Dracksnoop/fleetproo
+<div align="center">
 
-### CropWise — `cropwise`
-- Crop health detection pipeline using CNN + interpretable visualizations.
-- Notebook: `notebooks/01-exploration.ipynb`
-- Repo: https://github.com/Dracksnoop/cropwise
+### 💼 Showcasing Data Science & Machine Learning Solutions
+
+</div>
+
+---
+
+### 🎬 1. Netflix Customer Churn Predictor
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://netflix-customer-churn-predictor.onrender.com/)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dracksnoop/Netflix-Customer-Churn-Predictor)
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 📊 **Project Overview**
+
+A machine learning solution that predicts customer churn for streaming platforms, enabling proactive retention strategies and reducing customer attrition.
+
+#### 🛠️ **Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+</td>
+<td width="50%">
+
+#### ✨ **Key Features**
+
+- 🎯 **Predictive Analytics** - Binary classification with 90%+ accuracy
+- ⚖️ **SMOTE Balancing** - Handles class imbalance effectively
+- 📈 **Interactive Dashboard** - Real-time predictions with visualizations
+- 🔍 **Feature Importance** - Explainable AI insights
+- ☁️ **Cloud Deployed** - Production-ready on Render
+
+#### 📌 **Impact**
+
+> Identifies at-risk customers with high precision, enabling targeted retention campaigns
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌾 2. Crop Recommender System
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-28A745?style=for-the-badge&logo=streamlit&logoColor=white)](https://crop-recommenderr.onrender.com/)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dracksnoop/Crop_recommenderr)
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 📊 **Project Overview**
+
+An intelligent agricultural recommendation system that suggests optimal crops based on soil parameters, climate conditions, and environmental factors to maximize yield.
+
+#### 🛠️ **Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random_Forest-008000?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</td>
+<td width="50%">
+
+#### ✨ **Key Features**
+
+- 🌱 **Smart Recommendations** - Multi-class classification for 22+ crops
+- 🌡️ **Environmental Analysis** - NPK ratio, pH, temperature, humidity
+- 📊 **Data-Driven Insights** - Statistical analysis of soil conditions
+- 🎨 **User-Friendly Interface** - Intuitive Streamlit dashboard
+- 🚜 **Farmer Focused** - Practical agricultural guidance
+
+#### 📌 **Impact**
+
+> Empowers farmers with data-driven crop selection, optimizing yield and sustainability
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 📈 **Project Stats**
+
+| Metric | Netflix Churn | Crop Recommender |
+|:------:|:-------------:|:----------------:|
+| 🎯 **Domain** | Business Analytics | AgriTech |
+| 🤖 **ML Type** | Binary Classification | Multi-class Classification |
+| 📊 **Features** | 15+ behavioral metrics | 7 environmental parameters |
+| ⚡ **Model** | XGBoost + SMOTE | Random Forest |
+| 🌐 **Deployment** | Render Cloud | Render Cloud |
+| 📱 **Interface** | Streamlit Web App | Streamlit Web App |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 **Explore More**
+
+[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]()
+[![All Projects](https://img.shields.io/badge/📂_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dracksnoop?tab=repositories)
+
+**🔗 Quick Links:** [LinkedIn](https://www.linkedin.com/in/krishna-gurjar-99a232240/) • [Kaggle](https://www.kaggle.com/krishnagurjar009) • [Email](mailto:krishnasgurjar2019@gmail.com)
+
+---
+
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+</div>
 
 ---
 
