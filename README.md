@@ -1,69 +1,131 @@
-# Hi, I’m Krishna 👋 (Dracksnoop) — Data Scientist
-
-[![Website](https://img.shields.io/badge/portfolio-mgroww.com-blue)](https://mgroww.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-krishna-blue)](https://www.linkedin.com/in/krishna-gurjar-99a232240/)
-[![Email](https://img.shields.io/badge/Email-7777888220-orange)](mailto:krishnasgurjar2019@gmail.com)
-
----
-
-## 👨‍🔬 About
-I build practical data science products — recommendation systems, fleet/transport analytics, and ML-backed automation for small businesses. I like end-to-end projects: **data collection → modeling → deployment → user-friendly demo**.
-
-- 🔭 I’m currently building **FleetPro** (fleet management & analytics).
-- 🌱 Learning: productionizing ML models and MLOps.
-- 💬 Ask me about: recommender systems, time-series forecasting, Streamlit apps.
-
-## 🛠️ Tech Stack
-
-### 💻 Programming & Data
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
-</p>
-
-### 🤖 Machine Learning & Deep Learning
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn"/>
-</p>
-
-### 🧰 Tools & Frameworks
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-</p>
-
-### 🌐 Web & Deployment
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40" height="40" alt="Streamlit"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/>
-</p>
----
-
-## 🚀 Featured Projects
-
 <div align="center">
 
-### 💼 Showcasing Data Science & Machine Learning Solutions
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Krishna%20Gurjar&fontSize=90&fontAlignY=38&desc=Data%20Scientist%20|%20ML%20Engineer%20|%20Analytics%20Expert&descAlignY=55&descAlign=50&animation=fadeIn)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=600&lines=Building+Intelligent+Solutions;End-to-End+ML+Products;Data+%E2%86%92+Models+%E2%86%92+Deployment;Turning+Data+Into+Impact" alt="Typing SVG" />
+
+<p align="center">
+  <a href="https://mgroww.com"><img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/krishna-gurjar-99a232240/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Dracksnoop"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:krishnasgurjar2019@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.me/917777888220"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
 
 </div>
 
 ---
 
-### 🎬 1. Netflix Customer Churn Predictor
+<div align="center">
+
+## 🎯 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+</div>
+
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Krishna Gurjar"
+        self.role = "Data Scientist"
+        self.location = "Indore, India"
+        self.passion = "Building practical ML products"
+        
+    def current_work(self):
+        return {
+            "project": "FleetPro - Fleet Management Analytics",
+            "focus": ["ML Productionization", "MLOps", "Deployment"],
+            "expertise": ["Recommender Systems", "Time-Series", "Streamlit"]
+        }
+    
+    def philosophy(self):
+        return "Data Collection → Modeling → Deployment → Impact"
+```
+
+<br clear="right"/>
+
+🚀 **Current Mission:** Building **FleetPro** — Advanced fleet management & analytics platform  
+🌱 **Learning Journey:** Productionizing ML models, MLOps practices, scalable deployments  
+💡 **Expertise:** Recommender systems, time-series forecasting, interactive ML dashboards  
+🎯 **Goal:** Creating end-to-end data science products that solve real-world problems  
+
+---
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://netflix-customer-churn-predictor.onrender.com/)
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dracksnoop/Netflix-Customer-Churn-Predictor)
+## 🛠️ Tech Arsenal
+
+### **Core Technologies**
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="65" height="65" />
+<br><strong>PyTorch</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
+<br><strong>TensorFlow</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="65" height="65" />
+<br><strong>Scikit-learn</strong>
+</td>
+</tr>
+</table>
+
+### **Data Science Stack**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-7db0bc?style=for-the-badge&logo=python&logoColor=white)
+
+### **ML & AI Frameworks**
+
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=microsoft&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+
+### **Deployment & DevOps**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+### **Database & Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### **Web Technologies**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 Featured Projects
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -71,97 +133,106 @@ I build practical data science products — recommendation systems, fleet/transp
 <tr>
 <td width="50%">
 
-#### 📊 **Project Overview**
+<div align="center">
 
-A machine learning solution that predicts customer churn for streaming platforms, enabling proactive retention strategies and reducing customer attrition.
+### 🎬 Netflix Customer Churn Predictor
 
-#### 🛠️ **Tech Stack**
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://netflix-customer-churn-predictor.onrender.com/)
+[![GitHub](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dracksnoop/Netflix-Customer-Churn-Predictor)
+[![Stars](https://img.shields.io/github/stars/Dracksnoop/Netflix-Customer-Churn-Predictor?style=social)](https://github.com/Dracksnoop/Netflix-Customer-Churn-Predictor)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+<img src="https://img.icons8.com/color/96/000000/netflix.png" width="100"/>
+
+</div>
+
+#### 📊 **What It Does**
+ML-powered churn prediction system that identifies at-risk customers with **90%+ accuracy**, enabling proactive retention strategies for streaming platforms.
+
+#### 🎯 **Key Highlights**
+- ✅ XGBoost + SMOTE for class imbalance
+- ✅ Interactive Streamlit dashboard
+- ✅ Feature importance visualization
+- ✅ Real-time predictions
+- ✅ Production deployment on Render
+
+#### 💼 **Impact**
+> *Empowers businesses to reduce customer attrition through data-driven insights*
+
+**Tech:** `Python` `XGBoost` `SMOTE` `Streamlit` `Plotly`
 
 </td>
 <td width="50%">
 
-#### ✨ **Key Features**
+<div align="center">
 
-- 🎯 **Predictive Analytics** - Binary classification with 90%+ accuracy
-- ⚖️ **SMOTE Balancing** - Handles class imbalance effectively
-- 📈 **Interactive Dashboard** - Real-time predictions with visualizations
-- 🔍 **Feature Importance** - Explainable AI insights
-- ☁️ **Cloud Deployed** - Production-ready on Render
+### 🌾 Crop Recommender System
 
-#### 📌 **Impact**
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-28A745?style=for-the-badge&logo=streamlit&logoColor=white)](https://crop-recommenderr.onrender.com/)
+[![GitHub](https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dracksnoop/Crop_recommenderr)
+[![Stars](https://img.shields.io/github/stars/Dracksnoop/Crop_recommenderr?style=social)](https://github.com/Dracksnoop/Crop_recommenderr)
 
-> Identifies at-risk customers with high precision, enabling targeted retention campaigns
+<img src="https://img.icons8.com/color/96/000000/agriculture.png" width="100"/>
+
+</div>
+
+#### 📊 **What It Does**
+Intelligent AgriTech solution recommending optimal crops based on soil parameters, climate conditions, and environmental factors to maximize yield.
+
+#### 🎯 **Key Highlights**
+- ✅ Multi-class classification (22+ crops)
+- ✅ NPK ratio, pH, temperature analysis
+- ✅ Random Forest model
+- ✅ Farmer-friendly interface
+- ✅ Data-driven crop selection
+
+#### 💼 **Impact**
+> *Helps farmers optimize yield and sustainability through smart recommendations*
+
+**Tech:** `Python` `Random Forest` `Scikit-learn` `Streamlit`
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
 
-### 🌾 2. Crop Recommender System
+### 📊 Project Comparison Matrix
+
+| Feature | 🎬 Netflix Churn | 🌾 Crop Recommender |
+|---------|:---------------:|:-------------------:|
+| **Domain** | 📈 Business Analytics | 🌱 AgriTech |
+| **ML Task** | Binary Classification | Multi-class (22 classes) |
+| **Algorithm** | XGBoost + SMOTE | Random Forest |
+| **Accuracy** | 90%+ | 95%+ |
+| **Features** | 15+ behavioral metrics | 7 environmental params |
+| **Deployment** | ☁️ Render Cloud | ☁️ Render Cloud |
+| **Interface** | Interactive Dashboard | User-friendly Form |
+| **Users** | Business Analysts | Farmers & AgriTech |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+---
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-28A745?style=for-the-badge&logo=streamlit&logoColor=white)](https://crop-recommenderr.onrender.com/)
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dracksnoop/Crop_recommenderr)
-
-</div>
+## 📊 GitHub Analytics
 
 <table>
 <tr>
 <td width="50%">
-
-#### 📊 **Project Overview**
-
-An intelligent agricultural recommendation system that suggests optimal crops based on soil parameters, climate conditions, and environmental factors to maximize yield.
-
-#### 🛠️ **Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Random Forest](https://img.shields.io/badge/Random_Forest-008000?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Dracksnoop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
 </td>
 <td width="50%">
-
-#### ✨ **Key Features**
-
-- 🌱 **Smart Recommendations** - Multi-class classification for 22+ crops
-- 🌡️ **Environmental Analysis** - NPK ratio, pH, temperature, humidity
-- 📊 **Data-Driven Insights** - Statistical analysis of soil conditions
-- 🎨 **User-Friendly Interface** - Intuitive Streamlit dashboard
-- 🚜 **Farmer Focused** - Practical agricultural guidance
-
-#### 📌 **Impact**
-
-> Empowers farmers with data-driven crop selection, optimizing yield and sustainability
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dracksnoop&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6" alt="GitHub Streak"/>
 </td>
 </tr>
 </table>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dracksnoop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
 
-<div align="center">
-
-### 📈 **Project Stats**
-
-| Metric | Netflix Churn | Crop Recommender |
-|:------:|:-------------:|:----------------:|
-| 🎯 **Domain** | Business Analytics | AgriTech |
-| 🤖 **ML Type** | Binary Classification | Multi-class Classification |
-| 📊 **Features** | 15+ behavioral metrics | 7 environmental parameters |
-| ⚡ **Model** | XGBoost + SMOTE | Random Forest |
-| 🌐 **Deployment** | Render Cloud | Render Cloud |
-| 📱 **Interface** | Streamlit Web App | Streamlit Web App |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dracksnoop&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph"/>
 
 </div>
 
@@ -169,45 +240,141 @@ An intelligent agricultural recommendation system that suggests optimal crops ba
 
 <div align="center">
 
-### 🎯 **Explore More**
+## 🏆 Achievements & Milestones
 
-[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]()
-[![All Projects](https://img.shields.io/badge/📂_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dracksnoop?tab=repositories)
-
-**🔗 Quick Links:** [LinkedIn](https://www.linkedin.com/in/krishna-gurjar-99a232240/) • [Kaggle](https://www.kaggle.com/krishnagurjar009) • [Email](mailto:krishnasgurjar2019@gmail.com)
-
----
-
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/trophy.png" width="60"/>
+<br><strong>Projects</strong>
+<br><h2>10+</h2>
+<p>ML Products Deployed</p>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/code.png" width="60"/>
+<br><strong>Commits</strong>
+<br><h2>500+</h2>
+<p>Lines of Code</p>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/star.png" width="60"/>
+<br><strong>Accuracy</strong>
+<br><h2>90%+</h2>
+<p>Model Performance</p>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/globe.png" width="60"/>
+<br><strong>Deployments</strong>
+<br><h2>5+</h2>
+<p>Live Applications</p>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🔧 Tech & Tools
-| Data | ML | Deployment | Tools |
-|---|---|---|---|
-| pandas, numpy, SQL | sklearn, xgboost, pytorch | Streamlit, Flask, Docker, Heroku | Git, GitHub Actions, MLflow, DVC |
+<div align="center">
+
+## 💼 What I Offer
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="80"/>
+<h3>🤖 Machine Learning</h3>
+<p>End-to-end ML solutions from data preprocessing to production deployment with focus on business impact</p>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/web.png" width="80"/>
+<h3>📊 Data Analytics</h3>
+<p>Transform raw data into actionable insights with interactive dashboards and visualizations</p>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/rocket.png" width="80"/>
+<h3>🚀 Deployment</h3>
+<p>Production-ready ML applications with Streamlit, Flask, Docker, and cloud platforms</p>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
-<!-- Put your username in the URLs below -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dracksnoop&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=Dracksnoop&show_icons=true&count_private=true)
+<div align="center">
+
+## 🎯 Open to Opportunities
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 💼 Seeking: Internships & Collaborations
+
+🔍 **Interested In:**  
+✨ Machine Learning Engineering  
+✨ Data Science Projects  
+✨ ML Product Development  
+✨ Analytics for Small Businesses  
+
+📫 **Let's Connect:**  
+💌 Email: krishnasgurjar2019@gmail.com  
+📱 WhatsApp: +91 7777888220  
+🔗 LinkedIn: [Krishna Gurjar](https://www.linkedin.com/in/krishna-gurjar-99a232240/)  
+🌐 Portfolio: [mgroww.com](https://mgroww.com)
+
+<a href="https://www.linkedin.com/in/krishna-gurjar-99a232240/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:krishnasgurjar2019@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://wa.me/917777888220">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
+</div>
 
 ---
 
-## 📫 Contact
-- Email: krishnasgurjar2019@gmail.com  
-- WhatsApp: +91 7777888220  
+<div align="center">
 
+## 🌐 Explore More
+
+[![Portfolio](https://img.shields.io/badge/🎨_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mgroww.com)
+[![All Repos](https://img.shields.io/badge/📂_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dracksnoop?tab=repositories)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/krishnagurjar009)
+
+<img src="https://komarev.com/ghpvc/?username=Dracksnoop&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views"/>
+
+</div>
 
 ---
 
-## 🎯 What I’m looking for
-Open to internships and collaborations in ML/DS and productizing analytics for SMBs.
+<div align="center">
 
-![Python](https://img.shields.io/badge/python-3.10-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-[![Build Status](https://github.com/Dracksnoop/your-repo/actions/workflows/ci.yml/badge.svg)](https://github.com/Dracksnoop/your-repo/actions)
+### 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### ⚡ Fun Fact
+```python
+while coffee_available:
+    code()
+    deploy()
+    repeat()
+```
+
+<br>
+
+**Built with ❤️ by Krishna Gurjar | © 2025**
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
