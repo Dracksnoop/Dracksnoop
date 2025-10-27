@@ -375,6 +375,16 @@ while coffee_available:
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
+<div align="center">
+  
+### 👀 Profile Views Counter
+
+![Profile Views](https://komarev.com/ghpvc/?username=dracksnoop&label=Total%20Profile%20Views&color=blueviolet&style=for-the-badge)
+
+**Thanks for visiting! ⭐ Star my repos if you find them interesting!**
+
+</div>
+
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
