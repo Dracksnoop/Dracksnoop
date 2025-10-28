@@ -217,28 +217,83 @@ Intelligent AgriTech solution recommending optimal crops based on soil parameter
 
 <div align="center">
 
-## 📊 GitHub Analytics
+<div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Dracksnoop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dracksnoop&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6" alt="GitHub Streak"/>
-</td>
-</tr>
-</table>
+# 📊 GitHub Analytics Dashboard
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dracksnoop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dracksnoop&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dracksnoop&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%AD%90;Always+Learning+%F0%9F%93%9A;Code+%7C+Create+%7C+Innovate+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
 
+---
+
+## 🎯 Performance Metrics
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Dracksnoop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=📊+GitHub+Stats" alt="GitHub Stats"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dracksnoop&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
+## 💻 Tech Stack & Languages
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dracksnoop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=10&custom_title=🔥+Most+Used+Languages" alt="Top Languages" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dracksnoop&theme=tokyonight" alt="Repos per Language" width="48%"/>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dracksnoop&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&custom_title=📊+Contribution+Graph" alt="Contribution Graph" width="98%"/>
+</div>
+
+---
+
+
+## ⚡ Detailed Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dracksnoop&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dracksnoop&theme=tokyonight" alt="Profile Details"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎨 Profile Views & Contributions
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dracksnoop&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Dracksnoop?style=for-the-badge&color=3B82F6&labelColor=0D1117&logo=github&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Dracksnoop?style=for-the-badge&color=F59E0B&labelColor=0D1117&logo=github&label=STARS" alt="Stars"/>
+</div>
+
+---
+
+
+
+
 
 ## 🏆 Achievements & Milestones
 
