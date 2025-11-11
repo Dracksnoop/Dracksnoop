@@ -28,7 +28,7 @@
 class DataScientist:
     def __init__(self):
         self.name = "Krishna Gurjar"
-        self.role = "Data Scientist"
+        self.role = "Data Scientist & Data scientist"
         self.location = "Indore, India"
         self.passion = "Building practical ML products"
         
