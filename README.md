@@ -18,7 +18,7 @@
 
 <div align="center">
 
-## 🎯 About Me
+## 🎯 About Mee
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
